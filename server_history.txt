@@ -1,0 +1,49 @@
+[08-11-2025 19:32:10] Server started on port 5000
+[08-11-2025 19:32:57] Server started on port 5000
+[08-11-2025 19:33:57] New client connected: /127.0.0.1:9398
+[08-11-2025 19:34:49] Connection lost with null: null
+[08-11-2025 19:34:49] [Exception] Connection lost with null -> null
+[08-11-2025 19:34:49] Client disconnected: null
+[08-11-2025 19:34:57] New client connected: /127.0.0.1:12350
+[08-11-2025 19:35:29] New user registered: 661sakibulislam@gmail.com
+[08-11-2025 19:35:38] Sakibul joined from /127.0.0.1:12350
+[08-11-2025 19:36:06] New client connected: /127.0.0.1:12353
+[08-11-2025 19:36:45] New user registered: sakibul@gmail.com
+[08-11-2025 19:36:57] Toshar joined from /127.0.0.1:12353
+[08-11-2025 19:37:20] [19:37:20] Toshar: Hi!! how are you?? sakibul
+[08-11-2025 19:37:39] [19:37:39] Sakibul: I am fine and you??
+[08-11-2025 19:38:05] [19:38:05] Sakibul: hi broooo
+[08-11-2025 19:38:09] [19:38:09] Toshar: hellow
+[08-11-2025 19:38:20] Connection lost with Toshar: Connection reset
+[08-11-2025 19:38:20] [Exception] Connection lost with Toshar -> Connection reset
+[08-11-2025 19:38:20] Client disconnected: Toshar
+[08-11-2025 19:38:22] Connection lost with Sakibul: Connection reset
+[08-11-2025 19:38:22] [Exception] Connection lost with Sakibul -> Connection reset
+[08-11-2025 19:38:22] Client disconnected: Sakibul
+[19-11-2025 13:47:55] Server started on port 5000
+[19-11-2025 13:48:07] New client connected: /127.0.0.1:6622
+[19-11-2025 13:48:29] New user registered: sakibul@mail.com
+[19-11-2025 13:48:33] Sakibul joined from /127.0.0.1:6622
+[19-11-2025 13:49:03] New client connected: /127.0.0.1:6627
+[19-11-2025 13:49:19] New user registered: aditta@gmail.com
+[19-11-2025 13:49:23] Aditta joined from /127.0.0.1:6627
+[19-11-2025 13:50:23] Server started on port 5000
+[19-11-2025 13:50:36] New client connected: /127.0.0.1:6634
+[19-11-2025 13:50:57] Connection lost with null: null
+[19-11-2025 13:50:57] [Exception] Connection lost with null -> null
+[19-11-2025 13:50:57] Client disconnected: null
+[19-11-2025 13:52:09] New client connected: /127.0.0.1:6641
+[19-11-2025 13:52:27] New user registered: Aditta@gmail.com
+[19-11-2025 13:52:33] Aditta joined from /127.0.0.1:6641
+[19-11-2025 13:54:16] [Exception] Listening for messages -> Connection reset
+[19-11-2025 17:04:00] Server started on port 5000
+[19-11-2025 17:04:16] New client connected: /127.0.0.1:2310
+[19-11-2025 17:04:38] Connection lost with null: null
+[19-11-2025 17:04:38] [Exception] Connection lost with null -> null
+[19-11-2025 17:04:38] Client disconnected: null
+[19-11-2025 17:14:00] Server started on port 5000
+[19-11-2025 17:14:13] New client connected: /127.0.0.1:13205
+[19-11-2025 17:14:32] New user registered: AAA@gmail.com
+[19-11-2025 17:14:39] AA joined from /127.0.0.1:13205
+[19-11-2025 17:15:19] [Exception] Listening for messages -> Connection reset
+[19-11-2025 17:15:50] Server started on port 5000
